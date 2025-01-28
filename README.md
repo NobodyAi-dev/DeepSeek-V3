@@ -21,7 +21,7 @@
   </ul>
 <p>Furthermore, Nob AI addresses critical limitations within the current NFT ecosystem. It overcomes the inherent static nature of NFTs, mitigates the challenges of platform fragmentation by fostering cross-platform identity and reputation, and empowers NFT holders to actively participate in the growing AI economy through automated value distribution and clear ownership models.</p>
 
-<p>By seamlessly integrating with the Smart Layer Network and leveraging the power of DeepSeek technology, Nob AI pioneers a new era for digital entities. These dynamic, AI-powered NFTs are no longer mere static assets; they are living, evolving entities capable of independent action, collaborative endeavors, and sustainable value generation within the decentralized web.</p>
+<p>By seamlessly integrating with DeepSeek technology, Nob AI pioneers a new era for digital entities. These dynamic, AI-powered NFTs are no longer mere static assets; they are living, evolving entities capable of independent action, collaborative endeavors, and sustainable value generation within the decentralized web.</p>
 
 
 <!-- markdownlint-disable first-line-h1 -->
